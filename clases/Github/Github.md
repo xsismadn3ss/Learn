@@ -30,7 +30,8 @@ Reconmendado:
 ![alt text](image-5.png)
 
 * Cada vez que realices un cambio en el repositorio se mostraran en la interfaz
-* Para subir un cambio has click en en boton +
-* Añade un comentario en el campo de texto (dscripción de los cambios realizados)
+* Para añadir un cambio has click en en boton +
+* Añade un comentario en el campo de texto (descripción de los cambios realizados)
 * Confirma y envia los cambios
 ![alt text](image-6.png)
+* Al enviar los cambios se veran reflejados en github

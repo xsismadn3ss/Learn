@@ -10,9 +10,10 @@ Reconmendado:
 * Crea un nuevo repositorio dando click en el botón "new"
 ![new repository screenshot](image.png)
 * Asigna un nombre a tu repositorio
+* Añade una descripció (opcional)
 * Escoge si tu repositorio sera publico o privado
-* Añade un archivo README
-* Añade una plantilla git ignore
+* Añade un archivo README (opcional)
+* Añade una plantilla git ignore (opcional)
 * Por utlimo crea tu repositorio
 
 # Clonar repositorio
